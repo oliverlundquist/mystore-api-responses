@@ -1,0 +1,168 @@
+{
+  "code": 200,
+  "data": {
+    "data": {
+      "1": {
+        "categories_id": "37",
+        "categories_name": "Damesko",
+        "categories_url": "http://mystore-api.no/kontrollpanel/index.php?cPath=37",
+        "result_entries": [
+          {
+            "products_id": "109",
+            "categories_id": "37",
+            "products_url": "http://chips.mystore4.no/products",
+            "products_image": "../users/chips_mystore_no/images/38755_Gucci_Serveringsbrett_1.jpg",
+            "products_name": "Serveringsbrett",
+            "products_model": "",
+            "manufacturers_name": "Gucci",
+            "highlight": "orb",
+            "products_price": "1.049,-",
+            "specials_price": ""
+          },
+          {
+            "products_id": "111",
+            "categories_id": "37",
+            "products_url": "http://chips.mystore4.no/products",
+            "products_image": "../users/chips_mystore_no/images/38782_Fold_chair_Army_gr_nn_1.jpg",
+            "products_name": "Fold chair Army gr&oslash;nn",
+            "products_model": "",
+            "manufacturers_name": "",
+            "highlight": "orb",
+            "products_price": "1.061,-",
+            "specials_price": ""
+          }
+        ]
+      },
+      "2": {
+        "categories_id": "46",
+        "categories_name": "New Child Category",
+        "categories_url": "http://mystore-api.no/kontrollpanel/index.php?cPath=46",
+        "result_entries": [
+          {
+            "products_id": "113",
+            "categories_id": "46",
+            "products_url": "http://chips.mystore4.no/products",
+            "products_image": "../users/chips_mystore_no/images/38733_Gucci_Dr_pelampe_1.jpg",
+            "products_name": "Dr&aring;pelampe",
+            "products_model": "",
+            "manufacturers_name": "Gucci",
+            "highlight": "orb",
+            "products_price": "1.349,-",
+            "specials_price": ""
+          }
+        ]
+      },
+      "3": {
+        "categories_id": "37",
+        "categories_name": "Damesko",
+        "categories_url": "http://mystore-api.no/kontrollpanel/index.php?cPath=37",
+        "result_entries": [
+          {
+            "products_id": "114",
+            "categories_id": "37",
+            "products_url": "http://chips.mystore4.no/products",
+            "products_image": "../users/chips_mystore_no/images/38805_Mohair_pledd_1.jpg",
+            "products_name": "Mohair pledd",
+            "products_model": "",
+            "manufacturers_name": "",
+            "highlight": "orb",
+            "products_price": "2.436,-",
+            "specials_price": ""
+          }
+        ]
+      },
+      "4": {
+        "categories_id": "42",
+        "categories_name": "Interi&oslash;r",
+        "categories_url": "http://mystore-api.no/kontrollpanel/index.php?cPath=42",
+        "result_entries": [
+          {
+            "products_id": "121",
+            "categories_id": "42",
+            "products_url": "http://chips.mystore4.no/products",
+            "products_image": "../users/chips_mystore_no/images/39063_Kurv_1.jpg",
+            "products_name": "Kurv",
+            "products_model": "",
+            "manufacturers_name": "",
+            "highlight": "orb",
+            "products_price": "1.649,-",
+            "specials_price": ""
+          },
+          {
+            "products_id": "123",
+            "categories_id": "42",
+            "products_url": "http://chips.mystore4.no/products",
+            "products_image": "../users/chips_mystore_no/images/39038_Sortstripet_kurv_1.jpg",
+            "products_name": "Sortstripet kurv",
+            "products_model": "",
+            "manufacturers_name": "",
+            "highlight": "orb",
+            "products_price": "3.049,-",
+            "specials_price": ""
+          }
+        ]
+      },
+      "5": {
+        "categories_id": "43",
+        "categories_name": "Damekl&aelig;r",
+        "categories_url": "http://mystore-api.no/kontrollpanel/index.php?cPath=43",
+        "result_entries": [
+          {
+            "products_id": "124",
+            "categories_id": "43",
+            "products_url": "http://chips.mystore4.no/products",
+            "products_image": "../users/chips_mystore_no/images/38683_Orange_pute_1.jpg",
+            "products_name": "Orange pute",
+            "products_model": "",
+            "manufacturers_name": "",
+            "highlight": "orb",
+            "products_price": "1.349,-",
+            "specials_price": ""
+          },
+          {
+            "products_id": "125",
+            "categories_id": "43",
+            "products_url": "http://chips.mystore4.no/products",
+            "products_image": "../users/chips_mystore_no/images/38649_Barneservice_Bl__1.jpg",
+            "products_name": "Barneservice Bl&aring;",
+            "products_model": "",
+            "manufacturers_name": "",
+            "highlight": "orb",
+            "products_price": "949,-",
+            "specials_price": ""
+          },
+          {
+            "products_id": "126",
+            "categories_id": "43",
+            "products_url": "http://chips.mystore4.no/products",
+            "products_image": "../users/chips_mystore_no/images/38706_Rosa_pute_1.jpg",
+            "products_name": "Rosa pute",
+            "products_model": "",
+            "manufacturers_name": "",
+            "highlight": "orb",
+            "products_price": "649,-",
+            "specials_price": ""
+          }
+        ]
+      },
+      "6": {
+        "categories_id": "37",
+        "categories_name": "Damesko",
+        "result_entries": [
+          {
+            "products_id": "128",
+            "categories_id": "37",
+            "products_url": "http://chips.mystore4.no/products",
+            "products_image": "../users/chips_mystore_no/images/39013_Korbo_Classic_24_1.jpg",
+            "products_name": "Korbo Classic 24",
+            "products_model": "",
+            "manufacturers_name": "",
+            "highlight": "orb",
+            "products_price": "2.045,-",
+            "specials_price": ""
+          }
+        ]
+      }
+    }
+  }
+}

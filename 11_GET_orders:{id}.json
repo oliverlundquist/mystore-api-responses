@@ -1,0 +1,246 @@
+{
+  "code": 200,
+  "data": {
+    "order": {
+      "info": {
+        "orders_id": "2",
+        "invoice_id": "0",
+        "invoice_date": "",
+        "purring": "",
+        "purring_forfallsdato": "",
+        "forfallsdato": "",
+        "kredittnota": "",
+        "currency": "NOK",
+        "currency_value": "1.000000",
+        "payment_module": "cod",
+        "payment_method": "Postoppkrav",
+        "shipping_metod": "Posten Servicepakke () ",
+        "shipping_module": "servicepakke_servicepakke",
+        "cc_type": "",
+        "cc_owner": "",
+        "cc_number": "",
+        "cc_expires": "",
+        "date_purchased": "2011-10-11 22:25:07",
+        "estimated_delivery_date": "",
+        "orders_status": "4",
+        "orders_ip": "88.88.71.185",
+        "orders_hostname": "ti0028a380-2483.bb.online.no",
+        "orders_useragent": "",
+        "orders_total": "3487.5000",
+        "orders_invoice_tax": "72.5000",
+        "orders_shipping_tax": "118.0000",
+        "orders_discount": "",
+        "last_modified": "2016-06-02 15:26:41",
+        "economic": "",
+        "wheight": "3",
+        "tracking_number": "",
+        "recipe_id": "0",
+        "external_affiliate_id": "",
+        "tax_groups": {
+          "0": "0",
+          "25": "38.1"
+        },
+        "weight": "0",
+        "shipping_module_clean": "servicepakke"
+      },
+      "totals": [
+        {
+          "title": "Sub-Total:",
+          "text": "3.297,-",
+          "value": "3297.0000",
+          "class": "ot_subtotal",
+          "value_ex_tax": "3297",
+          "tax_percent": ""
+        },
+        {
+          "title": "Posten Servicepakke ():",
+          "text": "118,-",
+          "value": "118.0000",
+          "class": "ot_shipping",
+          "value_ex_tax": "94.4000000000",
+          "tax_percent": "25"
+        },
+        {
+          "title": "Oppkrav:",
+          "text": "72,50",
+          "value": "72.5000",
+          "class": "ot_fixed_payment_chg",
+          "value_ex_tax": "64",
+          "tax_percent": "25"
+        },
+        {
+          "title": "Herav 25% mva:",
+          "text": "39,60",
+          "value": "39.6000",
+          "class": "ot_tax",
+          "value_ex_tax": "39.6",
+          "tax_percent": ""
+        },
+        {
+          "title": "Totalsum:",
+          "text": "<b>3.487,50</b>",
+          "value": "3487.5000",
+          "class": "ot_total",
+          "value_ex_tax": "",
+          "tax_percent": ""
+        }
+      ],
+      "products": [
+        {
+          "products_id": "121",
+          "qty": "1",
+          "name": "Round chair",
+          "model": "",
+          "products_stock_attributes": "",
+          "tax": "0.0000",
+          "price": "1599.0000",
+          "final_price": "1599.0000",
+          "in_price": "0.0000",
+          "manufacturers_name": "",
+          "details": "",
+          "orders_products_id": "9",
+          "attributes": [
+            {
+              "option": "Farge",
+              "value": "Rød",
+              "prefix": "",
+              "price": "0.0000",
+              "option_id": "3",
+              "value_id": "9"
+            }
+          ],
+          "weight": "0"
+        },
+        {
+          "products_id": "115",
+          "qty": "1",
+          "name": "Gentleman&#39;s brown",
+          "model": "",
+          "products_stock_attributes": "",
+          "tax": "0.0000",
+          "price": "999.0000",
+          "final_price": "999.0000",
+          "in_price": "",
+          "manufacturers_name": "",
+          "details": "",
+          "orders_products_id": "10",
+          "attributes": [
+            {
+              "option": "Farge",
+              "value": "Rød",
+              "prefix": "",
+              "price": "0.0000",
+              "option_id": "3",
+              "value_id": "9"
+            }
+          ],
+          "weight": ""
+        },
+        {
+          "products_id": "116",
+          "qty": "1",
+          "name": "Smart casual",
+          "model": "",
+          "products_stock_attributes": "",
+          "tax": "0.0000",
+          "price": "699.0000",
+          "final_price": "699.0000",
+          "in_price": "",
+          "manufacturers_name": "",
+          "details": "",
+          "orders_products_id": "11",
+          "attributes": [
+            {
+              "option": "Farge",
+              "value": "Rød",
+              "prefix": "",
+              "price": "0.0000",
+              "option_id": "3",
+              "value_id": "9"
+            }
+          ],
+          "weight": ""
+        }
+      ],
+      "customer": {
+        "id": "1",
+        "name": "Petter Testmann",
+        "company": "",
+        "company_co": "",
+        "company_number": "",
+        "street_address": "Storgata 11",
+        "suburb": "",
+        "city": "Krokelvdalen",
+        "postcode": "9022",
+        "state": "Norge",
+        "country": "Norge",
+        "format_id": "5",
+        "telephone": "44444444",
+        "email_address": "abb@mystore.no",
+        "notes": "",
+        "date_of_birth": "0000-00-00 00:00:00"
+      },
+      "delivery": {
+        "name": "Petter Testmann",
+        "company": "",
+        "company_co": "",
+        "street_address": "Storgata 11",
+        "suburb": "",
+        "city": "Krokelvdalen",
+        "postcode": "9022",
+        "state": "Norge",
+        "country": "Norge",
+        "format_id": "5"
+      },
+      "protected_tag_names": [
+        "requires_supplier_order",
+        "is_manual_order",
+        "kreditert"
+      ],
+      "billing": {
+        "name": "Petter Testmann",
+        "company": "",
+        "company_co": "",
+        "street_address": "Storgata 11",
+        "suburb": "",
+        "city": "Krokelvdalen",
+        "postcode": "9022",
+        "state": "Norge",
+        "country": "Norge",
+        "format_id": "5"
+      },
+      "history": {
+        "3": {
+          "orders_status_history_id": "3",
+          "orders_id": "2",
+          "orders_status_id": "1",
+          "date_added": "2011-10-11 22:25:07",
+          "customer_notified": "1",
+          "comments": "",
+          "tracking_id": "",
+          "orders_status_change_user_id": ""
+        },
+        "9": {
+          "orders_status_history_id": "9",
+          "orders_id": "2",
+          "orders_status_id": "0",
+          "date_added": "2016-06-02 15:26:41",
+          "customer_notified": "0",
+          "comments": "Ordren er redigert manuelt",
+          "tracking_id": "",
+          "orders_status_change_user_id": ""
+        },
+        "10": {
+          "orders_status_history_id": "10",
+          "orders_id": "2",
+          "orders_status_id": "4",
+          "date_added": "2016-06-02 15:26:41",
+          "customer_notified": "0",
+          "comments": "",
+          "tracking_id": "",
+          "orders_status_change_user_id": ""
+        }
+      }
+    }
+  }
+}

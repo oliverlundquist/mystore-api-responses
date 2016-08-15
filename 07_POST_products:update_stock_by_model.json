@@ -1,0 +1,20 @@
+{
+  "code": 200,
+  "data": {
+    "message": {
+      "success": "false",
+      "msg": "NO_PRODUCT_FOUND"
+    }
+  }
+}
+
+{
+  "code": 200,
+  "data": {
+    "message": {
+      "success": "true",
+      "msg": "PRODUCT_UPDATED",
+      "product_id": "109"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "code": 200,
+  "data": {
+    "attributes": {
+      "1": {
+        "name": "Størrelse",
+        "values": {
+          "2": "S",
+          "3": "M",
+          "4": "L",
+          "5": "XL"
+        }
+      },
+      "3": {
+        "name": "Farge",
+        "values": {
+          "8": "Sort",
+          "9": "Rød"
+        }
+      },
+      "4": {
+        "name": "Chips Flavors (w/o lagerstyring)",
+        "values": {
+          "10": "Salt",
+          "11": "Sourcream & Onion"
+        }
+      },
+      "5": {
+        "name": "Chips Flavors (w/ lagerstyring)",
+        "values": {
+          "12": "Nori Flavor",
+          "13": "Chili Pepper"
+        }
+      }
+    }
+  }
+}

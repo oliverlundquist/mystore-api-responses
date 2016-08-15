@@ -1,0 +1,60 @@
+{
+  "code": 200,
+  "data": {
+    "product_data": {
+      "109": {
+        "products_id": "109",
+        "products_name": "Serveringsbrett",
+        "products_page_title": "",
+        "products_meta_description": "",
+        "products_model": "",
+        "products_url": "http://chips.mystore4.no/products/stylish-high-heels",
+        "products_url_identifier": "stylish-high-heels",
+        "products_sort_order": "0",
+        "products_quantity": "1",
+        "products_weight": "0",
+        "products_status": "1",
+        "products_in_price": "0.0000",
+        "products_price_ex_tax": "1049.0000",
+        "products_tax_class_id": "0",
+        "products_tax_percentage": "0",
+        "products_description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in molestie quam. Sed aliquet urna eu leo bibendum lacinia auctor est ornare. Maecenas posuere, erat ac pretium eleifend, orci urna adipiscing arcu, non ornare neque lectus cursus lacus. Mauris et pulvinar urna. Ut congue adipiscing placerat. Quisque at dolor massa. Etiam id tortor dolor, eu tincidunt nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin sem quam, accumsan non convallis nec, convallis ac nulla. Mauris pretium accumsan nisl a elementum.</p>\r\n<p>Maecenas tempor ipsum a purus convallis nec faucibus mi egestas. Nullam quis mollis mauris. Etiam hendrerit, purus at pellentesque fringilla, justo urna aliquet lectus, sed vulputate lectus leo a elit. Vestibulum eleifend, velit et sagittis dictum, velit tortor vehicula elit, in placerat tortor mauris vitae risus. Pellentesque eu diam mauris. Praesent eros lectus, pretium quis sagittis sit amet, posuere et quam. Cras non metus nec quam adipiscing ornare. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam faucibus luctus purus, ut placerat nulla euismod sit amet. Nullam eget metus non nunc rhoncus commodo.</p>",
+        "products_date_added": "2011-10-07 13:30:02",
+        "products_date_available": "0000-00-00 00:00:00",
+        "products_last_modified": "2016-04-27 08:32:35",
+        "products_brand_name": "Gucci",
+        "products_brand_id": "11",
+        "products_categories": [
+          "37"
+        ],
+        "products_attributes": {
+          "3-8": {
+            "price": "0.0000",
+            "weight": "0",
+            "combinations": {
+              "Farge": "Sort"
+            }
+          },
+          "3-9": {
+            "price": "0.0000",
+            "weight": "0",
+            "combinations": {
+              "Farge": "Rød"
+            }
+          }
+        },
+        "products_tabs": null,
+        "products_images": [
+          "http://chips.mystore4.no/users/chips_mystore_no/images/38755_Gucci_Serveringsbrett_1.jpg"
+        ],
+        "specials_status": "",
+        "products_store_price": "0.000000000",
+        "availability": "1",
+        "products_categories_status": {
+          "37": "1"
+        },
+        "products_index": "1"
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "code": 200,
+  "data": {
+    "message": {
+      "success": "true",
+      "msg": "CREATED_NEW_PRODUCT",
+      "product_id": "136"
+    }
+  }
+}
+
+{
+  "code": 200,
+  "data": {
+    "message": {
+      "success": "true",
+      "msg": "UPDATED_EXISTING_PRODUCT",
+      "product_id": "136"
+    }
+  }
+}

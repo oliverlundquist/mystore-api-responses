@@ -1,0 +1,271 @@
+{
+  "code": 200,
+  "data": {
+    "product_data": {
+      "109": {
+        "products_id": "109",
+        "products_name": "Serveringsbrett",
+        "products_page_title": "",
+        "products_meta_description": "",
+        "products_model": "",
+        "products_url": "http://chips.mystore4.no/products/stylish-high-heels",
+        "products_url_identifier": "stylish-high-heels",
+        "products_sort_order": "4",
+        "products_quantity": "1",
+        "products_weight": "0",
+        "products_status": "1",
+        "products_in_price": "0.0000",
+        "products_price_ex_tax": "1049.0000",
+        "products_tax_class_id": "0",
+        "products_tax_percentage": "0",
+        "products_description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in molestie quam. Sed aliquet urna eu leo bibendum lacinia auctor est ornare. Maecenas posuere, erat ac pretium eleifend, orci urna adipiscing arcu, non ornare neque lectus cursus lacus. Mauris et pulvinar urna. Ut congue adipiscing placerat. Quisque at dolor massa. Etiam id tortor dolor, eu tincidunt nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin sem quam, accumsan non convallis nec, convallis ac nulla. Mauris pretium accumsan nisl a elementum.</p>\r\n<p>Maecenas tempor ipsum a purus convallis nec faucibus mi egestas. Nullam quis mollis mauris. Etiam hendrerit, purus at pellentesque fringilla, justo urna aliquet lectus, sed vulputate lectus leo a elit. Vestibulum eleifend, velit et sagittis dictum, velit tortor vehicula elit, in placerat tortor mauris vitae risus. Pellentesque eu diam mauris. Praesent eros lectus, pretium quis sagittis sit amet, posuere et quam. Cras non metus nec quam adipiscing ornare. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam faucibus luctus purus, ut placerat nulla euismod sit amet. Nullam eget metus non nunc rhoncus commodo.</p>",
+        "products_date_added": "2011-10-07 13:30:02",
+        "products_date_available": "0000-00-00 00:00:00",
+        "products_last_modified": "2016-04-27 08:32:35",
+        "products_brand_name": "Gucci",
+        "products_brand_id": "11",
+        "products_categories": [
+          "37"
+        ],
+        "products_attributes": {
+          "3-8": {
+            "price": "0.0000",
+            "weight": "0",
+            "combinations": {
+              "Farge": "Sort"
+            }
+          },
+          "3-9": {
+            "price": "0.0000",
+            "weight": "0",
+            "combinations": {
+              "Farge": "Rød"
+            }
+          }
+        },
+        "products_tabs": null,
+        "products_images": [
+          "http://chips.mystore4.no/users/chips_mystore_no/images/38755_Gucci_Serveringsbrett_1.jpg"
+        ],
+        "specials_status": "",
+        "products_store_price": "0.000000000",
+        "availability": "1",
+        "products_categories_status": {
+          "37": "1"
+        },
+        "products_index": "5"
+      },
+      "111": {
+        "products_id": "111",
+        "products_name": "Fold chair Army grønn",
+        "products_page_title": "",
+        "products_meta_description": "",
+        "products_model": "",
+        "products_url": "http://chips.mystore4.no/products/sexy-pink",
+        "products_url_identifier": "sexy-pink",
+        "products_sort_order": "0",
+        "products_quantity": "1",
+        "products_weight": "0",
+        "products_status": "1",
+        "products_in_price": "0.0000",
+        "products_price_ex_tax": "849.0000",
+        "products_tax_class_id": "1",
+        "products_tax_percentage": "25",
+        "products_description": "<p>Nullam luctus iaculis consequat. Aliquam erat volutpat. Duis sed quam feugiat nisl cursus ultrices. Pellentesque est justo, porta ac ultricies ut, volutpat vel dui. Sed convallis eleifend odio, vel dignissim enim sollicitudin sit amet. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam nec justo ut tortor tempus porttitor.</p>\r\n<p>&nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in molestie quam. Sed aliquet urna eu leo bibendum lacinia auctor est ornare. Maecenas posuere, erat ac pretium eleifend, orci urna adipiscing arcu, non ornare neque lectus cursus lacus. Mauris et pulvinar urna. Ut congue adipiscing placerat. Quisque at dolor massa. Etiam id tortor dolor, eu tincidunt nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin sem quam, accumsan non convallis nec, convallis ac nulla. Mauris pretium accumsan nisl a elementum.</p>\r\n<p>Maecenas tempor ipsum a purus convallis nec faucibus mi egestas. Nullam quis mollis mauris. Etiam hendrerit, purus at pellentesque fringilla, justo urna aliquet lectus, sed vulputate lectus leo a elit. Vestibulum eleifend, velit et sagittis dictum, velit tortor vehicula elit, in placerat tortor mauris vitae risus. Pellentesque eu diam mauris. Praesent eros lectus, pretium quis sagittis sit amet, posuere et quam. Cras non metus nec quam adipiscing ornare. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam faucibus luctus purus, ut placerat nulla euismod sit amet. Nullam eget metus non nunc rhoncus commodo.</p>",
+        "products_date_added": "2011-10-07 13:58:49",
+        "products_date_available": "0000-00-00 00:00:00",
+        "products_last_modified": "2016-06-15 12:37:19",
+        "products_brand_name": "",
+        "products_brand_id": "0",
+        "products_categories": {
+          "1": "37"
+        },
+        "products_attributes": {
+          "3-8": {
+            "price": "0.0000",
+            "weight": "0",
+            "combinations": {
+              "Farge": "Sort"
+            }
+          },
+          "3-9": {
+            "price": "0.0000",
+            "weight": "0",
+            "combinations": {
+              "Farge": "Rød"
+            }
+          }
+        },
+        "products_tabs": null,
+        "products_images": [
+          "http://chips.mystore4.no/users/chips_mystore_no/images/38782_Fold_chair_Army_gr_nn_1.jpg"
+        ],
+        "specials_status": "",
+        "products_store_price": "0.000000000",
+        "availability": "1",
+        "products_categories_status": {
+          "37": "1"
+        },
+        "products_index": "1"
+      },
+      "114": {
+        "products_id": "114",
+        "products_name": "Mohair pledd",
+        "products_page_title": "",
+        "products_meta_description": "",
+        "products_model": "",
+        "products_url": "http://chips.mystore4.no/products/invincible-silver",
+        "products_url_identifier": "invincible-silver",
+        "products_sort_order": "2",
+        "products_quantity": "1",
+        "products_weight": "0",
+        "products_status": "1",
+        "products_in_price": "0.0000",
+        "products_price_ex_tax": "1949.0000",
+        "products_tax_class_id": "1",
+        "products_tax_percentage": "25",
+        "products_description": "<p>Nullam luctus iaculis consequat. Aliquam erat volutpat. Duis sed quam feugiat nisl cursus ultrices. Pellentesque est justo, porta ac ultricies ut, volutpat vel dui. Sed convallis eleifend odio, vel dignissim enim sollicitudin sit amet. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam nec justo ut tortor tempus porttitor.</p>\r\n<p>&nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in molestie quam. Sed aliquet urna eu leo bibendum lacinia auctor est ornare. Maecenas posuere, erat ac pretium eleifend, orci urna adipiscing arcu, non ornare neque lectus cursus lacus. Mauris et pulvinar urna. Ut congue adipiscing placerat. Quisque at dolor massa. Etiam id tortor dolor, eu tincidunt nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin sem quam, accumsan non convallis nec, convallis ac nulla. Mauris pretium accumsan nisl a elementum.</p>\r\n<p>Maecenas tempor ipsum a purus convallis nec faucibus mi egestas. Nullam quis mollis mauris. Etiam hendrerit, purus at pellentesque fringilla, justo urna aliquet lectus, sed vulputate lectus leo a elit. Vestibulum eleifend, velit et sagittis dictum, velit tortor vehicula elit, in placerat tortor mauris vitae risus. Pellentesque eu diam mauris. Praesent eros lectus, pretium quis sagittis sit amet, posuere et quam. Cras non metus nec quam adipiscing ornare. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam faucibus luctus purus, ut placerat nulla euismod sit amet. Nullam eget metus non nunc rhoncus commodo.</p>",
+        "products_date_added": "2011-10-07 14:05:05",
+        "products_date_available": "0000-00-00 00:00:00",
+        "products_last_modified": "2016-06-21 10:49:34",
+        "products_brand_name": "",
+        "products_brand_id": "0",
+        "products_categories": {
+          "2": "37"
+        },
+        "products_attributes": {
+          "3-8": {
+            "price": "0.0000",
+            "weight": "0",
+            "combinations": {
+              "Farge": "Sort"
+            }
+          },
+          "3-9": {
+            "price": "0.0000",
+            "weight": "0",
+            "combinations": {
+              "Farge": "Rød"
+            }
+          }
+        },
+        "products_tabs": null,
+        "products_images": [
+          "http://chips.mystore4.no/users/chips_mystore_no/images/38805_Mohair_pledd_1.jpg"
+        ],
+        "specials_status": "",
+        "products_store_price": "0.000000000",
+        "availability": "1",
+        "products_categories_status": {
+          "37": "1"
+        },
+        "products_index": "3"
+      },
+      "128": {
+        "products_id": "128",
+        "products_name": "Korbo Classic 24",
+        "products_page_title": "",
+        "products_meta_description": "",
+        "products_model": "",
+        "products_url": "http://chips.mystore4.no/products/camilla-armchair2",
+        "products_url_identifier": "camilla-armchair2",
+        "products_sort_order": "1",
+        "products_quantity": "0",
+        "products_weight": "0",
+        "products_status": "1",
+        "products_in_price": "0.0000",
+        "products_price_ex_tax": "2045.0000",
+        "products_tax_class_id": "0",
+        "products_tax_percentage": "0",
+        "products_description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque at turpis in justo tristique dictum. Phasellus vehicula, sapien sed aliquam pellentesque, odio ante tempor arcu, at aliquam erat purus a urna. Phasellus a sapien vitae risus sagittis convallis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla facilisi. Nulla pharetra erat non magna placerat euismod. Cras suscipit luctus sollicitudin. Quisque vel facilisis quam.</p>\r\n<p>Suspendisse vestibulum commodo tempor. Curabitur vel enim ut metus tincidunt pretium quis in nulla. Maecenas neque tortor, euismod pharetra posuere et, egestas sed velit. Phasellus nec lectus ac erat faucibus elementum. Maecenas consequat dictum dui id aliquam. Nulla ut neque urna, nec iaculis diam. Ut vitae tellus tortor, eu faucibus urna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla facilisi. In egestas aliquet feugiat. Curabitur eget risus lorem. Cras eget odio a risus elementum porta consequat vitae enim. Fusce pretium quam a ligula euismod gravida.</p>\r\n<p>Curabitur ac lacus et arcu fermentum egestas ac at enim. In hac habitasse platea dictumst. Pellentesque eu tellus mauris, vel elementum massa. Ut sit amet est non purus rutrum sodales. Sed in purus lorem, eget tempus libero. Curabitur ut nisl rutrum magna pharetra ullamcorper a vitae urna. In hac habitasse platea dictumst. Sed molestie sodales augue vel consectetur.</p>",
+        "products_date_added": "2016-06-02 09:22:09",
+        "products_date_available": "0000-00-00 00:00:00",
+        "products_last_modified": "2016-06-16 14:12:57",
+        "products_brand_name": "",
+        "products_brand_id": "0",
+        "products_categories": {
+          "3": "37"
+        },
+        "products_attributes": {
+          "3-8": {
+            "price": "0.0000",
+            "weight": "0",
+            "combinations": {
+              "Farge": "Sort"
+            }
+          },
+          "3-9": {
+            "price": "0.0000",
+            "weight": "0",
+            "combinations": {
+              "Farge": "Rød"
+            }
+          }
+        },
+        "products_tabs": null,
+        "products_images": [
+          "http://chips.mystore4.no/users/chips_mystore_no/images/39013_Korbo_Classic_24_1.jpg"
+        ],
+        "specials_status": "",
+        "datasheet": [
+          {
+            "value_id": "4",
+            "option_id": "2",
+            "value_name": "male",
+            "option_name": "gender",
+            "language_id": "1"
+          }
+        ],
+        "products_store_price": "0.000000000",
+        "availability": "1",
+        "products_categories_status": {
+          "37": "1"
+        },
+        "products_index": "2"
+      },
+      "131": {
+        "products_id": "131",
+        "products_name": "Potato Chips",
+        "products_page_title": "",
+        "products_meta_description": "",
+        "products_model": "",
+        "products_url": "http://chips.mystore4.no/products/potato-chips",
+        "products_url_identifier": "potato-chips",
+        "products_sort_order": "3",
+        "products_quantity": "14",
+        "products_weight": "250",
+        "products_status": "1",
+        "products_in_price": "80.0000",
+        "products_price_ex_tax": "6100.0000",
+        "products_tax_class_id": "1",
+        "products_tax_percentage": "25",
+        "products_description": "<p>Produkt beskrivelse</p>\r\n<p>&nbsp;</p>\r\n<p>Produkt beskrivelse</p>\r\n<p><img src=\"../users/chips_mystore_no/Image/bigstock-Potato-chips-on-a-white-backgr-58970891.jpg\" border=\"0\" width=\"150\" height=\"150\"></p>",
+        "products_date_added": "2016-06-02 10:21:35",
+        "products_date_available": "2016-06-03 00:00:00",
+        "products_last_modified": "2016-06-03 12:20:54",
+        "products_brand_name": "",
+        "products_brand_id": "0",
+        "products_categories": {
+          "4": "37",
+          "5": "43"
+        },
+        "products_attributes": null,
+        "products_tabs": null,
+        "products_images": [
+          "http://chips.mystore4.no/users/chips_mystore_no/images/56267_Potato_Chips_1.jpg",
+          "http://chips.mystore4.no/users/chips_mystore_no/images/56248_Potato_Chips_1.jpg"
+        ],
+        "specials_status": "1",
+        "products_price_special": "1000.0000",
+        "products_store_price": "0.000000000",
+        "availability": "1",
+        "products_categories_status": {
+          "37": "1",
+          "43": "1"
+        },
+        "products_index": "4"
+      }
+    },
+    "product_count_total": 5
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "code": 200,
+  "data": {
+    "customer": {
+      "customers_id": "1",
+      "customers_gender": "",
+      "customers_firstname": "Mystore supportbruker",
+      "customers_lastname": "Mystore supportbruker",
+      "customers_dob": "0000-00-00 00:00:00",
+      "customers_email_address": "kundeservice@mystore.no",
+      "customers_default_address_id": "1",
+      "customers_default_billing_address_id": "9",
+      "customers_telephone": "44444444",
+      "customers_fax": "",
+      "customers_newsletter": "0",
+      "customers_notes": "",
+      "customers_billing_email": "",
+      "customers_bounce": "0",
+      "address_book_id": "1",
+      "entry_gender": "",
+      "entry_company": "",
+      "entry_company_co": "",
+      "entry_firstname": "Mystore supportbruker",
+      "entry_lastname": "Mystore supportbruker",
+      "entry_street_address": "Storgata 11",
+      "entry_suburb": "",
+      "entry_postcode": "9022",
+      "entry_city": "Krokelvdalen",
+      "entry_state": "",
+      "entry_country_id": "153",
+      "entry_zone_id": "0",
+      "entry_company_number": "",
+      "customers_info_id": "1",
+      "customers_info_date_of_last_logon": "2015-09-15 07:55:00",
+      "customers_info_number_of_logons": "56",
+      "customers_info_date_account_created": "2006-07-22 05:51:47",
+      "customers_info_date_account_last_modified": "2016-06-02 15:34:56",
+      "global_product_notifications": "0",
+      "customers_num_orders": ""
+    }
+  }
+}

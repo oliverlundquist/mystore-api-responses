@@ -1,0 +1,41 @@
+{
+  "code": 200,
+  "data": {
+    "types": [
+      {
+        "id": "brevpost",
+        "text": "Posten Brevpost"
+      },
+      {
+        "id": "pnhomedelivery",
+        "text": "Postnord Hjemlevering"
+      },
+      {
+        "id": "servicepakke",
+        "text": "Posten Servicepakke"
+      },
+      {
+        "id": "padoren2",
+        "text": "Hjemlevering kl 17-21"
+      }
+    ]
+  }
+}
+
+{
+  "code": 200,
+  "data": {
+    "types": [
+      {
+        "id": "cod",
+        "text": "Postoppkrav",
+        "enabled": "1"
+      },
+      {
+        "id": "redigerbar",
+        "text": "Vi kontakter deg for betaling",
+        "enabled": "1"
+      }
+    ]
+  }
+}

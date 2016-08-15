@@ -1,0 +1,43 @@
+{
+  "code": 200,
+  "data": {
+    "order_statuses": [
+      {
+        "orders_status_id": "1",
+        "public_name": "",
+        "private_name": "Ikke behandlet",
+        "is_default_status": "true"
+      },
+      {
+        "orders_status_id": "2",
+        "public_name": "",
+        "private_name": "Under behandling",
+        "is_default_status": "false"
+      },
+      {
+        "orders_status_id": "3",
+        "public_name": "Sendt",
+        "private_name": "Sendt",
+        "is_default_status": "false"
+      },
+      {
+        "orders_status_id": "4",
+        "public_name": "",
+        "private_name": "Kansellertx",
+        "is_default_status": "false"
+      },
+      {
+        "orders_status_id": "5",
+        "public_name": "test2no",
+        "private_name": "test1no",
+        "is_default_status": "false"
+      },
+      {
+        "orders_status_id": "6",
+        "public_name": "",
+        "private_name": "POS",
+        "is_default_status": "false"
+      }
+    ]
+  }
+}

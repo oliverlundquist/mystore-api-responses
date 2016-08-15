@@ -1,0 +1,188 @@
+{
+  "code": 200,
+  "data": {
+    "order_data": {
+      "2": {
+        "order_id": "2",
+        "customers_id": "1",
+        "customers_name": "Petter Testmann",
+        "customers_company_number": "",
+        "customers_company_co": "",
+        "date_purchased": "2011-10-11 22:25:07",
+        "orders_status_id": "4",
+        "orders_status_name": "Kansellertx",
+        "order_total": "3.487,50",
+        "currency": "NOK",
+        "invoice_id": "0",
+        "estimated_delivery_date": "",
+        "payment_method": "Postoppkrav"
+      },
+      "3": {
+        "order_id": "3",
+        "customers_id": "12001",
+        "customers_name": "Oliver Lundquist",
+        "customers_company_number": "",
+        "customers_company_co": "",
+        "date_purchased": "2016-06-02 15:01:31",
+        "orders_status_id": "1",
+        "orders_status_name": "Ikke behandlet",
+        "order_total": "1.067",
+        "currency": "NOK",
+        "invoice_id": "0",
+        "estimated_delivery_date": "",
+        "payment_method": "",
+        "tags": [
+          {
+            "ckey": "is_manual_order",
+            "value": "true"
+          }
+        ]
+      },
+      "4": {
+        "order_id": "4",
+        "customers_id": "12002",
+        "customers_name": "Kalle Hillfelt",
+        "customers_company_number": "",
+        "customers_company_co": "",
+        "date_purchased": "2016-06-02 15:15:02",
+        "orders_status_id": "2",
+        "orders_status_name": "Under behandling",
+        "order_total": "1.152,25",
+        "currency": "NOK",
+        "invoice_id": "0",
+        "estimated_delivery_date": "",
+        "payment_method": "Postoppkrav",
+        "tags": [
+          {
+            "ckey": "bring_pickup_id",
+            "value": "173117"
+          }
+        ]
+      },
+      "5": {
+        "order_id": "5",
+        "customers_id": "12002",
+        "customers_name": "Kalle Hillfelt",
+        "customers_company_number": "",
+        "customers_company_co": "",
+        "date_purchased": "2016-06-02 15:23:35",
+        "orders_status_id": "1",
+        "orders_status_name": "Ikke behandlet",
+        "order_total": "960,00",
+        "currency": "NOK",
+        "invoice_id": "0",
+        "estimated_delivery_date": "",
+        "payment_method": "Vi kontakter deg for betaling",
+        "tags": [
+          {
+            "ckey": "bring_pickup_id",
+            "value": "173117"
+          }
+        ]
+      },
+      "6": {
+        "order_id": "6",
+        "customers_id": "12001",
+        "customers_name": "Oliver Lundquist",
+        "customers_company_number": "",
+        "customers_company_co": "",
+        "date_purchased": "2016-06-02 15:27:54",
+        "orders_status_id": "1",
+        "orders_status_name": "Ikke behandlet",
+        "order_total": "0.00",
+        "currency": "NOK",
+        "invoice_id": "0",
+        "estimated_delivery_date": "",
+        "payment_method": "Etter avtale",
+        "tags": [
+          {
+            "ckey": "is_manual_order",
+            "value": "true"
+          }
+        ]
+      },
+      "7": {
+        "order_id": "7",
+        "customers_id": "12002",
+        "customers_name": "Kalle2 Hillfelt",
+        "customers_company_number": "",
+        "customers_company_co": "",
+        "date_purchased": "2016-06-03 12:22:35",
+        "orders_status_id": "1",
+        "orders_status_name": "Ikke behandlet",
+        "order_total": "5.513,50",
+        "currency": "NOK",
+        "invoice_id": "0",
+        "estimated_delivery_date": "",
+        "payment_method": "Postoppkrav",
+        "tags": [
+          {
+            "ckey": "bring_pickup_id",
+            "value": "173117"
+          }
+        ]
+      },
+      "8": {
+        "order_id": "8",
+        "customers_id": "12004",
+        "customers_name": "Kontantkunde ",
+        "customers_company_number": "",
+        "customers_company_co": "",
+        "date_purchased": "2016-06-23 09:33:38",
+        "orders_status_id": "6",
+        "orders_status_name": "POS",
+        "order_total": "200,50",
+        "currency": "NOK",
+        "invoice_id": "0",
+        "estimated_delivery_date": "",
+        "payment_method": "POS"
+      },
+      "9": {
+        "order_id": "9",
+        "customers_id": "12004",
+        "customers_name": "Kontantkunde ",
+        "customers_company_number": "",
+        "customers_company_co": "",
+        "date_purchased": "2016-06-23 09:48:14",
+        "orders_status_id": "6",
+        "orders_status_name": "POS",
+        "order_total": "7.625,00",
+        "currency": "NOK",
+        "invoice_id": "0",
+        "estimated_delivery_date": "",
+        "payment_method": "POS"
+      },
+      "10": {
+        "order_id": "10",
+        "customers_id": "12004",
+        "customers_name": "Kontantkunde ",
+        "customers_company_number": "",
+        "customers_company_co": "",
+        "date_purchased": "2016-06-23 10:12:21",
+        "orders_status_id": "6",
+        "orders_status_name": "POS",
+        "order_total": "1.203,00",
+        "currency": "NOK",
+        "invoice_id": "0",
+        "estimated_delivery_date": "",
+        "payment_method": "POS"
+      },
+      "11": {
+        "order_id": "11",
+        "customers_id": "12004",
+        "customers_name": "Kontantkunde ",
+        "customers_company_number": "",
+        "customers_company_co": "",
+        "date_purchased": "2016-06-23 10:14:46",
+        "orders_status_id": "6",
+        "orders_status_name": "POS",
+        "order_total": "3.095,00",
+        "currency": "NOK",
+        "invoice_id": "0",
+        "estimated_delivery_date": "",
+        "payment_method": "POS"
+      }
+    },
+    "order_count_total": 10
+  }
+}

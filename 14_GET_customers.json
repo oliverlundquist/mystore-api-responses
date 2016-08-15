@@ -1,0 +1,86 @@
+{
+  "code": 200,
+  "data": {
+    "customer_data": {
+      "1": {
+        "customers_id": "1",
+        "customers_firstname": "Mystore supportbruker",
+        "customers_lastname": "Mystore supportbruker",
+        "customers_street_address": "Storgata 11",
+        "customers_postcode": "9022",
+        "customers_group_id": "",
+        "customers_city": "Krokelvdalen",
+        "customers_email_address": "kundeservice@mystore.no",
+        "customers_telephone": "44444444",
+        "customers_newsletter": "0",
+        "customers_info_date_account_created": "2006-07-22 05:51:47"
+      },
+      "12000": {
+        "customers_id": "12000",
+        "customers_firstname": "Ekstern",
+        "customers_lastname": "Testbruker(ikke slett)",
+        "customers_street_address": "Svarvaren",
+        "customers_postcode": "9022",
+        "customers_group_id": "",
+        "customers_city": "KROKELVDALEN",
+        "customers_email_address": "tester@mystore.no",
+        "customers_telephone": "",
+        "customers_newsletter": "0",
+        "customers_info_date_account_created": "2010-02-18 12:33:12"
+      },
+      "12001": {
+        "customers_id": "12001",
+        "customers_firstname": "Oliver",
+        "customers_lastname": "Lundquist",
+        "customers_street_address": "SmÃ¸rblomstvegen 24",
+        "customers_postcode": "9100",
+        "customers_group_id": "",
+        "customers_city": "KVALÃYSLETTA",
+        "customers_email_address": "oliver@mystore.no",
+        "customers_telephone": "92400000",
+        "customers_newsletter": "0",
+        "customers_info_date_account_created": "2016-06-01 13:30:11"
+      },
+      "12002": {
+        "customers_id": "12002",
+        "customers_firstname": "Kalle2",
+        "customers_lastname": "Hillfelt",
+        "customers_street_address": "SOFIENBERGGATA 23",
+        "customers_postcode": "0563",
+        "customers_group_id": "",
+        "customers_city": "OSLO",
+        "customers_email_address": "checkout-no@testdrive.klarna.com",
+        "customers_telephone": "40123456",
+        "customers_newsletter": "1",
+        "customers_info_date_account_created": "2016-06-02 14:39:06"
+      },
+      "12003": {
+        "customers_id": "12003",
+        "customers_firstname": "Oliver",
+        "customers_lastname": "Lundquist",
+        "customers_street_address": "Smorblomstvegen",
+        "customers_postcode": "9100",
+        "customers_group_id": "",
+        "customers_city": "Kvaloysletta",
+        "customers_email_address": "oliver2@mystore.no",
+        "customers_telephone": "9242 0000",
+        "customers_newsletter": "",
+        "customers_info_date_account_created": "2016-06-03 06:26:47"
+      },
+      "12004": {
+        "customers_id": "12004",
+        "customers_firstname": "Kontantkunde",
+        "customers_lastname": "",
+        "customers_street_address": "",
+        "customers_postcode": "",
+        "customers_group_id": "",
+        "customers_city": "",
+        "customers_email_address": "",
+        "customers_telephone": "",
+        "customers_newsletter": "",
+        "customers_info_date_account_created": "2016-06-23 09:31:23"
+      }
+    },
+    "customer_count_total": 6
+  }
+}
